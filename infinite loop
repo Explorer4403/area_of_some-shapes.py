@@ -1,9 +1,0 @@
-a=0
-while a<=2 :
-    print("Jai mata di") # here we can print anything.
-    
-#this is second method 
-a=0
-while True :
-    a+=1
-    print(a)
